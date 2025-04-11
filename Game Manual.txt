@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+- - - - - - - - Settings (by default) - - - - - - - - 
+
+
+- z : Forward
+
+- s : Back
+
+- q : Turn Left
+
+- d : Turn Right
+
+=======
+- - - - - - - - Settings (by default) - - - - - - - - 
+
+
+- z : Forward
+
+- s : Back
+
+- q : Turn Left
+
+- d : Turn Right
+
+>>>>>>> 903948464165b0ad94a2970b318cc0c626a364be
+- left mouse click : Fire
